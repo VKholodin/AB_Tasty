@@ -1,4 +1,4 @@
-# AB Tasty Test Automation
+# AB Tasty 
 
 This repository contains automated tests for the login functionality and other related features of the AB Tasty application using [Playwright](https://playwright.dev/).
 
